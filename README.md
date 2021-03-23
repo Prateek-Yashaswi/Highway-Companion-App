@@ -1,6 +1,6 @@
-# cubehighways
+# Seminar Project
 
-Hackathon
+A Highway Companion App
 
 ## Getting Started
 
