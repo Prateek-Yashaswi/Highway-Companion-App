@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471476282862",
+    "project_id": "cubestop-c7018",
+    "storage_bucket": "cubestop-c7018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471476282862:android:ea03a5ddfdbeaed7ac9aff",
+        "android_client_info": {
+          "package_name": "com.college.cubehighways"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471476282862-tvvv7akav4obmg4s5gcfln62a7oq2t13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7w5KS3T_3-1-kgRCEPEDHPsZIuGLoseg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471476282862-tvvv7akav4obmg4s5gcfln62a7oq2t13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
