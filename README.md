@@ -19,6 +19,3 @@
  <img src="https://user-images.githubusercontent.com/60723631/123561867-96e5b680-d7c8-11eb-94d3-a35baba63ad4.png" height=500px></img>
 </p>
 
-## Demo Video
-
-https://drive.google.com/file/d/1gDny4XEhW_BkCTPJg6Ve9QEU0eLL4dK3/view
